@@ -1,0 +1,16 @@
+PODS:
+  - GWThirdDemo (0.1.0)
+
+DEPENDENCIES:
+  - GWThirdDemo (from `../`)
+
+EXTERNAL SOURCES:
+  GWThirdDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GWThirdDemo: 077667cfe3ba1513bb331d26e2d7887eeefe3c16
+
+PODFILE CHECKSUM: 69ee261bb49f0528ae648a926bc438eb944c26b3
+
+COCOAPODS: 1.5.3
